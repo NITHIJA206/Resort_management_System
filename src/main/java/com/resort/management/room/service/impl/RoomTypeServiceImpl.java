@@ -1,4 +1,5 @@
 package com.resort.management.room.service.impl;
+import com.resort.management.exception.ResourceNotFoundException;
 
 import com.resort.management.room.dto.RoomTypeRequest;
 import com.resort.management.room.dto.RoomTypeResponse;
