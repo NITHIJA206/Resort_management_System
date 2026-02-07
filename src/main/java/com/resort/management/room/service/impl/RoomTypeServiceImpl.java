@@ -3,7 +3,7 @@ package com.resort.management.room.service.impl;
 import com.resort.management.room.dto.RoomTypeRequest;
 import com.resort.management.room.dto.RoomTypeResponse;
 import com.resort.management.room.entity.RoomType;
-import com.resort.management.room.exception.ResourceNotFoundException;
+import com.resort.management.exception.ResourceNotFoundException;
 import com.resort.management.room.repository.RoomTypeRepository;
 import com.resort.management.room.service.RoomTypeService;
 import lombok.RequiredArgsConstructor;
